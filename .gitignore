@@ -1,2 +1,9 @@
-
+new_dataset/
 .DS_Store
+fine_tuned_model_epoch_1
+fine_tuned_model_epoch_2
+fine_tuned_model_epoch_3
+fine_tuned_model_epoch_4
+fine_tuned_model_epoch_5
+model
+processor
