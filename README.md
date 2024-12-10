@@ -102,6 +102,3 @@ python image_pro.ipynb
 python model1.ipynb
 ```
 
-## Contact
-For questions or issues, please contact the project maintainer at [email@example.com].
-
