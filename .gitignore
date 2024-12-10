@@ -15,6 +15,13 @@ new_dataset_5050/
 new_dataset_5050_random/
 new_dataset_8080/
 new_dataset_8080_random/
+new_dataset/
+
+
 reconstructed_images_1/
+reconstructed_images_5050_fixed/
+reconstructed_images_8080_fixed/
+reconstructed_images_5050_random/
+
 model8080.ipynb
 
